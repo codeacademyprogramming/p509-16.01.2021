@@ -1,9 +1,44 @@
-Then couple of examples of Chaining Promises as shown in the slides
+# Front-End Lesson 21, JS - Homework (16.01.2021)
 
-https://www.cbar.az/currencies/03.01.2003.xml
-https://aladhan.com/prayer-times-api
-https://jsonplaceholder.typicode.com/
+## Lessons topics:
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+- [Promises, async/await](https://javascript.info/async)
+  - [Introduction: callbacks](https://javascript.info/callbacks)
+    - [W3Schools - JavaScript Callbacks](https://www.w3schools.com/js/js_callback.asp)
+    - [W3Schools - Asynchronous JavaScript](https://www.w3schools.com/js/js_asynchronous.asp)
+  - [Promise](https://javascript.info/promise-basics)
+    - [W3Schools - JavaScript Promises](https://www.w3schools.com/js/js_promise.asp)
+  - [Promises chaining](https://javascript.info/promise-chaining)
 
-https://2020.stateofjs.com/en-US/
+## Additional articles and videos:
+
+- **Articles:**
+  - []()
+- **Videos:**
+  - []()
+
+## Assignments:
+
+1. **Watch these videos:**
+   - [Asynchronous Vs Synchronous Programming](https://youtu.be/Kpn2ajSa92c)
+   - [JavaScript Promise in 100 Seconds](https://youtu.be/RvYYCGs45L4)
+   - [JavaScript Promises In 10 Minutes](https://youtu.be/DHvZLI7Db8E)
+   - [Fun Fun Function - Promises](https://youtu.be/2d7s3spWAzo)
+   - [What Are APIs? - Simply Explained](https://youtu.be/OVvTv9Hy91Q)
+   - [What is a REST API?](https://youtu.be/SLwpqD8n3d0)
+   - [Learn Fetch API In 6 Minutes](https://youtu.be/cuEtnrL9-H0)
+   - [Jake Archibald: In The Loop - JSConf.Asia](https://youtu.be/cCOL7MC4Pl0)
+     - Rus translated: [Jake Archibald: все что я знаю про Event Loop в JavaScript (2018)](https://youtu.be/j4_9BZezSUA)
+   - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
+     - Rus translated: [Про цикл событий в JavaScript или "как на самом деле работает асинхронность"?](https://youtu.be/8cV4ZvHXQL4)
+   - [Просто о promise в JavaScript](https://youtu.be/Sr0WT-XHwd0)
+
+## Some other useful resources:
+
+- Some public APIs:
+  - https://www.cbar.az/currencies/03.01.2003.xml
+  - https://aladhan.com/prayer-times-api
+  - https://jsonplaceholder.typicode.com/
+- Telegram channels to subscribe:
+  - https://t.me/forwebdev
+  - https://t.me/webstandards_ru
